@@ -1,72 +1,113 @@
-<h1 align="center">Hi 👋, I'm Jayant</h1>
-<h3 align="center">Artificial Intelligence Developer | Financial Risk & Decision Intelligence Systems</h3>
+## Jayant Kumar
+
+**AI/ML Engineer | Deep Learning | HPC-AI Systems**
+
+Currently advancing expertise in high-performance computing and production-grade AI systems through hands-on engineering work in machine learning, deep learning, and parallel computing.
 
 ---
 
-## 🚀 About Me
+## About
 
-🎓 Artificial Intelligence Intern at NIELIT Patna  
-🤖 Passionate about building AI systems for Financial Risk Monitoring  
-📊 Focused on Machine Learning, LLMs & Intelligent Automation  
-🔍 Exploring AI-driven Decision Intelligence in Finance  
-
----
-
-## 🧠 Current Focus
-
-- 🔹 Financial Risk Analysis Assistant  
-- 🔹 Financial Report Intelligence System  
-- 🔹 LLM + RAG for Finance  
-- 🔹 AI-powered Expense & Budget Automation  
+- **Background:** Master's degree in Data Science and Applied Statistics; undergraduate in Statistics
+- **Current Focus:** Building AI systems that work reliably at scale—combining ML engineering with performance optimization
+- **Interests:** End-to-end AI system design, from model development through production deployment
+- **Learning:** Advanced HPC and parallel computing through C-DAC HPC-AI Program
+- **Philosophy:** Practical engineering over theoretical exercises; focus on systems that solve real problems
 
 ---
 
-## 🛠 Tech Stack
+## Current Work
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**AI/ML Engineering**  
+Deep learning models, LLM-based systems, and machine learning pipelines built for reliability and performance.
 
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Agentic AI & Multi-Agent Systems**  
+Designing autonomous AI systems with LLMs, agent architectures, and reasoning frameworks.
 
-### 🤖 AI & ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8E44AD?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-E74C3C?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+**HPC & Parallel Computing**  
+Learning parallel programming patterns, GPU acceleration, and high-performance distributed systems.
 
-### 🚀 Modern AI
-![LLMs](https://img.shields.io/badge/Large%20Language%20Models-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-4A235A?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1ABC9C?style=for-the-badge)
-
-### 💰 Finance AI
-![Financial Risk Modeling](https://img.shields.io/badge/Financial%20Risk%20Modeling-2C3E50?style=for-the-badge)
-![Decision Intelligence](https://img.shields.io/badge/Decision%20Intelligence-884EA0?style=for-the-badge)
+**Practical DevOps & Systems**  
+Working with containerization, Linux environments, and production deployment practices.
 
 ---
 
-## 📈 GitHub Analytics
+## Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayant-ai-ml&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayant-ai-ml&theme=radical" />
-</p>
+### Parkinson's Disease Detection from Brain MRI
+**Problem:** Automated classification of Parkinson's disease from structural MRI scans  
+**Technologies:** PyTorch, Deep Convolutional Neural Networks, Medical Imaging (MRI), Python  
+**Implementation:** Built CNN architecture for 3D medical image classification with preprocessing pipeline for MRI data normalization and augmentation  
+**Repository:** [Link to repository]
+
+### AI-Powered Financial Audit Automation
+**Problem:** Automate expense reimbursement and financial audit workflows using intelligent agents  
+**Technologies:** Multi-agent architecture, LLMs, CrewAI, LangChain, FastAPI, Python  
+**Implementation:** Designed and implemented multi-agent system for document parsing, expense classification, and audit rule application  
+**Repository:** [Link to repository]
+
+### Financial Risk Analysis System
+**Problem:** Real-time financial risk detection and decision intelligence for institutional risk monitoring  
+**Technologies:** Machine Learning, Retrieval-Augmented Generation (RAG), LLMs, Python  
+**Implementation:** Built risk analysis pipeline with intelligent document processing and automated decision support  
+**Repository:** [Link to repository]
 
 ---
 
-## 🎯 Vision
+## Technical Stack
 
-Building AI systems that assist financial institutions in  
-risk detection, intelligent reporting, and automated decision-making.
+**Programming Languages**  
+Python · C++ · R · SQL
+
+**Machine Learning & Data Science**  
+PyTorch · TensorFlow · Pandas · NumPy · Scikit-learn
+
+**Deep Learning & AI Systems**  
+Transformers · CNN · RNN · LLM Fine-tuning
+
+**LLM & Agentic AI**  
+LangChain · CrewAI · Retrieval-Augmented Generation (RAG) · Hugging Face
+
+**HPC & Parallel Computing**  
+OpenMP · MPI · CUDA · GPU Computing · Distributed Systems
+
+**Backend & APIs**  
+FastAPI · REST APIs · Python Services
+
+**DevOps & Systems**  
+Docker · Linux · Git
+
+**Tools**  
+Jupyter · VS Code · Data Visualization
 
 ---
 
-## 📫 Connect With Me
+## Engineering Interests
 
-LinkedIn: (Add your link)  
-Email: (Optional)
+- **AI Systems Engineering:** Building production-grade AI systems with reliability, scalability, and performance
+- **Machine Learning & Deep Learning:** Model development, training, optimization, and evaluation
+- **LLMs and Agentic AI:** Autonomous agents, reasoning frameworks, and multi-agent coordination
+- **Financial AI:** Risk modeling, decision intelligence, and automated analysis
+- **High Performance Computing:** Parallel algorithms, GPU acceleration, and distributed computing
+- **Data-Intensive Applications:** Processing, analysis, and inference at scale
+
+---
+
+## Continuous Learning
+
+- Actively developing skills in Linux system administration and HPC optimization
+- Working with containerization and deployment practices through Docker
+- Exploring parallel programming models (OpenMP, MPI) for compute-intensive workloads
+- Building production AI systems and learning deployment best practices
+
+---
+
+## Get in Touch
+
+- **Email:** [Your Email]
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Portfolio:** [Your Portfolio or Personal Website]
+
+---
+
+*Focused on building reliable, scalable AI systems that solve real problems.*
